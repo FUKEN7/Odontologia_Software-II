@@ -1,0 +1,1 @@
+UPDATE [dbo].[Clinica] SET [Nombres] = 'gera', [Celular] = '5555', [Correo] = 'g@gmail' ,[Descripcion] = 'viva', [Fecha] = '12/34/2002',[Recomedacion] = 'caminar' WHERE [IdCliente] = 12345

@@ -1,0 +1,2 @@
+SAD1234;35;verde;1234;200
+QWE123;56;falta acete;0987;120

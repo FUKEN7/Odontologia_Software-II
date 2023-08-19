@@ -1,0 +1,3 @@
+1234;sandro;Ocasional
+4321;ANTONIO;Ocasional
+0987;ADRIANA;Por contrato
